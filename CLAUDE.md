@@ -59,4 +59,4 @@ Key is stored in Streamlit Cloud secrets at share.streamlit.io > App settings > 
 
 ## Shared context
 
-This is one of four coding-showcase tools under `~/Projects` (alongside `clueless-consultant`, `excel-ppt`, and `landing-page`). For style rules, who Antony is, and the Haik Spitzer meeting context these tools were built for, see `../CLAUDE.md`.
+This is one of four coding-showcase tools under `~/Projects` (alongside `clueless-consultant`, `excel-ppt`, and `landing-page`). For style rules and who Antony is, see `../CLAUDE.md`.
